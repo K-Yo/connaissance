@@ -6,4 +6,5 @@
 
 * [Opérations](securite/operations/README.md)
   * [Défense](securite/operations/defense.md)
+  * [Métiers](securite/operations/metiers.md)
 
